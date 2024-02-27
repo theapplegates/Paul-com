@@ -29,5 +29,4 @@ Ten years old and on a game show. That trivia statement makes me smile whenever 
 The day of the taping I was a nervous wreak. [Dick Clark](https://en.wikipedia.org/wiki/Dick_Clark) told us to relax and be ourselves. I remember how hot the lights were on the set. We had to bring a change of clothes in case we won and needed to "pretend" it has the next day at the least. We ended up losing the game but Dick Clark spoke to us the most during the taping. If you are curious about 1979 TV, I have the game show [online.](https://vimeo.com/26595314), the password is pa$$word.
 
 
-<img data-src="https://res.cloudinary.com/paulapplegate-com/image/f_auto,q_auto/upload/c_limit,w_auto/dpr_auto/Luke.jpg" 
-class="cld-responsive">
+<src="https://res.cloudinary.com/paulapplegate-com/image/w_auto:breakpoints/f_auto,q_auto/upload/c_limit/dpr_auto/Luke.jpg"</src>
