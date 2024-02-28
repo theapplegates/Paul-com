@@ -11,20 +11,14 @@
       "name": "Base",
       "description": "Base font stack for body text.",
       "value": [
-        "Overpass",
-        "Geist",
-        "Figtree",
-        "Optima",
-        "Candara",
-        "Noto Sans",
-        "source-sans-pro"
+        "Roboto Flex"
       ]
     },
     {
       "name": "Mono",
       "description": "Monospace font for code and preformatted text.",
       "value": [
-        "Overpass Moseno"
+        "Fira Code"
       ]
     }
   ]
