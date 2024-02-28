@@ -15,7 +15,7 @@ pre {
 code,
 pre {
   font-family: var(--font-mono);
-  font-size: var(--size-step-min-1);
+  font-size: var(--size-step-min-2);
   line-height: 1.4;
   background-color: var(--color-bg-accent);
   padding: 0.1em 0.4em;

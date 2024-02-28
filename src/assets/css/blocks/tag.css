@@ -8,7 +8,7 @@
   --button-bg: var(--color-text);
   --button-text: var(--color-bg);
   --button-border: var(--color-text);
-  font-size: var(--size-step-min-1);
+  font-size: var(--size-step-min-2);
   text-transform: uppercase;
   padding: 0.1rem 0.625rem;
   font-weight: var(--font-bold);

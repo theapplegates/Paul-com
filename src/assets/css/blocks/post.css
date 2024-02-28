@@ -24,7 +24,7 @@
 }
 
 .credit {
-  font-size: var(--size-step-min-1);
+  font-size: var(--size-step-min-2);
   color: var(--color-text-accent);
   background-color: var(--color-bg);
   padding: var(--space-xs) var(--space-s);
@@ -34,6 +34,6 @@
 }
 
 .meta {
-  font-size: var(--size-step-min-1);
+  font-size: var(--size-step-min-2);
   margin-block-end: var(--space-m);
 }
