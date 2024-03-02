@@ -18,5 +18,3 @@ package = "netlify-plugin-cache"
 [build]
   command = "npm run build && npx -y pagefind --site dist"
   publish = "dist"
-  
-  https://cdnjs.cloudflare.com/ajax/libs/cloudinary-jquery/2.13.0/cloudinary-jquery.min.js
