@@ -86,3 +86,4 @@ Photo by <a href="https://unsplash.com/@zhpix?utm_content=creditCopyText&utm_med
 
 
 
+<img data-src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_auto/dpr_auto/f_auto,q_auto/vieste_italy_ignoyr.jpg" class="cld-responsive">
