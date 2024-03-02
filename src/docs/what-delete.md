@@ -19,3 +19,4 @@ If you don't want to feature any code examples, you may delete the whole stylesh
 
 In general, any CSS block in there is optional.
 
+<img data-src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_auto/dpr_auto/f_auto,q_auto/Luke.jpg" class="cld-responsive">

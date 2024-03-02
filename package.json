@@ -20,7 +20,6 @@
     "url": "https://github.com/madrilene/eleventy-excellent.git"
   },
   "dependencies": {
-    "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-fetch": "^4.0.0",
     "@11ty/eleventy-img": "^3.1.8",
     "@11ty/eleventy-plugin-bundle": "^1.0.4",
@@ -31,6 +30,7 @@
     "vite": "^5.0.12"
   },
   "devDependencies": {
+    "@11ty/eleventy": "^2.0.1",
     "@csstools/postcss-relative-color-syntax": "^2.0.9",
     "@toycode/markdown-it-class": "^1.2.4",
     "autoprefixer": "^10.4.13",

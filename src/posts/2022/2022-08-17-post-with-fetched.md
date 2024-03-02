@@ -22,3 +22,6 @@ Endpoint editable in `_data/github.js.`
 
 {% endif %}
 {% endfor %}
+
+
+<img data-src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_auto/dpr_auto/f_auto,q_auto/vieste_italy_ignoyr.jpg" class="cld-responsive">
