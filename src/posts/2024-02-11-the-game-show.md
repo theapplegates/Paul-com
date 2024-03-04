@@ -6,6 +6,7 @@ tags: ['1979', 'Game Show']
 ---
 {% eleventyImage "./src/assets/images/gallery/Pyramid-title.jpg", "Show Title", null, "eager" %}
 
+<img data-src="https://res.cloudinary.com/paulportfolio/image/upload/f_auto,q_auto,c_fill/c_scale,w_auto:breakpoints_200_1920_30_15/hillshire-farm.jpg" alt="" class="cld-responsive">
 
 I let AI write/improve my words. Here is what it wrote:
 
