@@ -103,14 +103,15 @@
     <main id="main" class="flow">{{ content | safe }}</main>
 
     {% include "partials/footer.njk" %}
+    <script type="text/javascript">
+        my_breakpoints = function (width){  // width - the current width of the containing element
+          return 50 * Math.ceil(width / 50);
+        }
+        var cl = cloudinary.Cloudinary.new({cloud_name: "paulportfolio"}); 
+        // replace 'demo' with your cloud name in the line above 
+        cl.config({breakpoints:my_breakpoints, responsive_use_breakpoints:"resize"})
+        cl.responsive();
+    </script>
+
   </body>
-<script type="text/javascript">
-      my_breakpoints = function (width){  // width - the current width of the containing element
-        return 50 * Math.ceil(width / 50);
-      }
-      var cl = cloudinary.Cloudinary.new({cloud_name: "paulportfolio"}); 
-      // replace 'demo' with your cloud name in the line above 
-      cl.config({breakpoints:my_breakpoints, responsive_use_breakpoints:"resize"})
-      cl.responsive();
-  </script>
 </html>
