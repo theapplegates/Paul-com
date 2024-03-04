@@ -6,3 +6,51 @@
   font-weight: 400;
   src: url('/src/assets/fonts/RobotoFlex/roboto-flex-v9-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
+  /* grandstander-100 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Grandstander';
+  font-style: normal;
+  font-weight: 100;
+  src: url('/src/assets/fonts/Grandstander/grandstander-v17-latin-100.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* grandstander-100italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Grandstander';
+  font-style: italic;
+  font-weight: 100;
+  src: url('/src/assets/fonts/Grandstander/grandstander-v17-latin-100italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* grandstander-200 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Grandstander';
+  font-style: normal;
+  font-weight: 200;
+  src: url('/src/assets/fonts/Grandstander/grandstander-v17-latin-200.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* grandstander-200italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Grandstander';
+  font-style: italic;
+  font-weight: 200;
+  src: url('/src/assets/fonts/Grandstander/grandstander-v17-latin-200italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* grandstander-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Grandstander';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/src/assets/fonts/Grandstander/grandstander-v17-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* grandstander-italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Grandstander';
+  font-style: italic;
+  font-weight: 400;
+  src: url('/src/assets/fonts/Grandstander/grandstander-v17-latin-italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}

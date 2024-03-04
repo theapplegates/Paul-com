@@ -85,5 +85,7 @@ Thanks to the [markdown-it-eleventy-img](https://github.com/solution-loisir/mark
 Photo by <a href="https://unsplash.com/@zhpix?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Pascal Meier</a> on <a href="https://unsplash.com/photos/white-biplane-UYiesSO4FiM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 
+![A beautiful day in Italy](/assets/images/gallery/vieste_italy.jpg)
 
-<img data-src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_auto/dpr_auto/f_auto,q_auto/vieste_italy_ignoyr.jpg" class="cld-responsive">
+
+
