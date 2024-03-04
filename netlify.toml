@@ -18,8 +18,3 @@ package = "netlify-plugin-cache"
 [build]
   command = "npm run build"
   publish = "dist"
-  
-  
-  /pagefind/pagefind-ui.js
-  
-  script-src https://paulapplegate.com"
