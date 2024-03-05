@@ -121,6 +121,11 @@ main:focus {
   transition: none !important;
 }
 
+.photo-credit {
+  font-size: var(--size-step-min-2); /* Use the smaller font size */
+  color: #666;     
+}
+
 @media (prefers-reduced-motion: reduce) {
   html:focus-within {
     scroll-behavior: auto;
