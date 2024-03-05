@@ -87,5 +87,7 @@ Thanks to the [markdown-it-eleventy-img](https://github.com/solution-loisir/mark
 
 ![A beautiful day in Italy](/assets/images/gallery/vieste_italy.jpg)
 
-
+<img 
+    src="https://res.cloudinary.com/paulportfolio/upload/ar_16:9,c_fill/c_limit,w_auto:breakpoints_200_1920_30_15/coffee-relax.jpg"
+    sizes="100vw"/>
 
