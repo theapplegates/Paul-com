@@ -123,7 +123,7 @@ main:focus {
 
 .photo-credit {
   font-size: var(--size-step-min-2); /* Use the smaller font size */
-  color: #666;     
+  color: #000;     
 }
 
 @media (prefers-reduced-motion: reduce) {
