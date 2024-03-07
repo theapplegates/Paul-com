@@ -1,0 +1,30 @@
+thor3@Pauls-Air Paul-com-cdl % node responsive-w-breakpoints.js
+{
+  asset_id: '00cff975074db572a5af745cdea5630d',
+  public_id: 'mini-pies',
+  version: 1709822037,
+  version_id: '7eeea7039506cf183bfc3cec1d3c20c1',
+  signature: '4a75cddca847220e82d88bd599a84e666b68e0cf',
+  width: 5665,
+  height: 8500,
+  format: 'jpg',
+  resource_type: 'image',
+  created_at: '2024-03-07T14:33:57Z',
+  tags: [],
+  bytes: 2854202,
+  type: 'upload',
+  etag: '490e89ea348ce25ceec83d4da70fc37b',
+  placeholder: false,
+  url: 'http://res.cloudinary.com/paulapplegate-com/image/upload/v1709822037/mini-pies.jpg',
+  secure_url: 'https://res.cloudinary.com/paulapplegate-com/image/upload/v1709822037/mini-pies.jpg',
+  folder: '',
+  original_filename: 'mini-pies',
+  responsive_breakpoints: [
+    {
+      breakpoints: [Array],
+      transformation: 'ar_16:9,c_fill,g_auto,q_auto'
+    }
+  ],
+  api_key: '642662647533687'
+}
+thor3@Pauls-Air Paul-com-cdl % 

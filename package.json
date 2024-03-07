@@ -26,6 +26,7 @@
     "@11ty/eleventy-plugin-inclusive-language": "^1.0.3",
     "@11ty/eleventy-plugin-rss": "^1.2.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.0",
+    "cloudinary": "^2.0.3",
     "tailwindcss": "^3.0.23",
     "vite": "^5.0.12"
   },

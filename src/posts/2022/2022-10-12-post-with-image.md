@@ -94,3 +94,8 @@ Thanks to the [markdown-it-eleventy-img](https://github.com/solution-loisir/mark
 
 <img data-src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_fill,w_auto,g_auto,q_auto,dpr_auto/f_auto/v1709769083/paulapplegate-com/color-thing-waves-a.jpg" alt="" class="cld-responsive">
 
+<img src='https://res.cloudinary.com/paulapplegate-com/image/upload/ar_16:9,c_fill,g_auto,q_auto,f_auto/ISS-Lab?_a=BAMHUyd+0' />
+
+
+
+<img src='http://res.cloudinary.com/paulapplegate-com/image/upload/ar_16:9,c_fill,g_auto,q_auto,f_auto/v1/samples/sheep.jpg' />
