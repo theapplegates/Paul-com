@@ -98,4 +98,4 @@ Thanks to the [markdown-it-eleventy-img](https://github.com/solution-loisir/mark
 
 
 
-<img src='http://res.cloudinary.com/paulapplegate-com/image/upload/ar_16:9,c_fill,g_auto,q_auto,f_auto/v1/samples/sheep.jpg' />
+<img src='https://res.cloudinary.com/paulapplegate-com/image/upload/ar_16:9,c_fill,g_auto,q_auto/mini-pies?_a=BAMHUyd+0' />
