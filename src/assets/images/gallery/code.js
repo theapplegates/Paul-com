@@ -1,1 +1,0 @@
-cloudinary.uploader.v2.upload("Luke.jpg", { responsive_breakpoints: { create_derived: true, bytes_step: 20000, min_width: 200, max_width: 1000, transformation: { crop: 'fill', aspect_ratio: '16:9', gravity: 'auto' } } }, function(error, result) { console.log(result); });

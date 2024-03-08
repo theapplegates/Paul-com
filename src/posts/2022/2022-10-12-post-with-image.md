@@ -95,7 +95,11 @@ Thanks to the [markdown-it-eleventy-img](https://github.com/solution-loisir/mark
 <img data-src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_fill,w_auto,g_auto,q_auto,dpr_auto/f_auto/v1709769083/paulapplegate-com/color-thing-waves-a.jpg" alt="" class="cld-responsive">
 
 <img src='https://res.cloudinary.com/paulapplegate-com/image/upload/ar_16:9,c_fill,g_auto,q_auto,f_auto/ISS-Lab?_a=BAMHUyd+0' />
-
+<p class="credit">Photo by [NASA Hubble Space Telescope](https://unsplash.com/@hubblespacetelescope?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/two-very-large-objects-in-the-sky-SkInLcVMCUI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)</a></p>
 
 
 <img src='https://res.cloudinary.com/paulapplegate-com/image/upload/ar_16:9,c_fill,g_auto,q_auto/mini-pies?_a=BAMHUyd+0' />
+<p class="credit">Photo by [Monika Borys](https://unsplash.com/@fotoinshadows?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-plate-of-mini-pies-with-eggs-on-them-KuZIeqahv-I?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)</a></p>
+
+![Red Boats](/assets/images/gallery/red-boats.jpg)
+<p class="credit">Photo by [Daniel J. Schwarz](https://unsplash.com/@danieljschwarz?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/brown-wooden-boat-on-water-near-snow-covered-mountain-during-daytime-tyaf4qQ_leQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)</a></p>

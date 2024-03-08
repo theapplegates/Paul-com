@@ -5,7 +5,7 @@ cloudinary.config({
  api_secret: 'E_Fve1Kdyaz1Xry-6ul95bbwOiw'
 });
 
-const imageUrl = cloudinary.image("mini-pies", {
+const imageUrl = cloudinary.image("nasa-hubble-space-telescope", {
         transformation: { crop: 'fill', aspect_ratio: '16:9', gravity: 'auto', format: 'auto', quality: 'auto' }
       })
     console.log(imageUrl)

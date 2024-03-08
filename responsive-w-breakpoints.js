@@ -7,8 +7,8 @@ cloudinary.config({
 });
 
 
-cloudinary.uploader.upload("src/assets/images/gallery/mini-pies.jpg", {
-   public_id: "mini-pies",
+cloudinary.uploader.upload("src/assets/images/gallery/nasa-hubble-space-telescope.jpg", {
+   public_id: "hubble-telescope-image",
    responsive_breakpoints: {
      create_derived: true,
      bytes_step: 20000,
