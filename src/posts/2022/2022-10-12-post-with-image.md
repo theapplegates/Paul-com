@@ -110,5 +110,4 @@ Thanks to the [markdown-it-eleventy-img](https://github.com/solution-loisir/mark
   layout="constrained"
   width="800"
   height="600"
-  alt="A beautiful Italian city by the sea"
-></unpic-img>
+  alt="A beautiful Italian city by the sea"> </unpic-img>
