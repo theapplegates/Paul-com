@@ -14,6 +14,8 @@
  */
 
 // module import filters
+const pluginWebc = require("@11ty/eleventy-plugin-webc");
+
 const {
   toISOString,
   formatDate,
@@ -48,6 +50,7 @@ const {slugifyString} = require('./config/utils/index.js');
 const yaml = require('js-yaml');
 
 module.exports = eleventyConfig => {
+  eleventyConfig.addPlugin(pluginWebc);
   // 	--------------------- Custom Watch Targets -----------------------
   eleventyConfig.addWatchTarget('./src/assets');
   eleventyConfig.addWatchTarget('./utils/*.js');

@@ -103,3 +103,12 @@ Thanks to the [markdown-it-eleventy-img](https://github.com/solution-loisir/mark
 
 ![Red Boats](/assets/images/gallery/red-boats.jpg)
 <p class="credit">Photo by <a href="https://unsplash.com/@zhpix?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Pascal Meier</a> on <a href="https://unsplash.com/photos/white-biplane-UYiesSO4FiM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></p>
+
+<unpic-img
+  webc:import="npm:@unpic/webc"
+  src="https://res.cloudinary.com/paulapplegate-com/image/upload/v1709828785/vieste_italy_fzd6ap.jpg"
+  layout="constrained"
+  width="800"
+  height="600"
+  alt="A beautiful Italian city by the sea"
+></unpic-img>
