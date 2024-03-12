@@ -11,8 +11,8 @@ package = "netlify-plugin-cache"
     X-XSS-Protection = "1; mode=block"
     Referrer-Policy = "strict-origin-when-cross-origin"
     Permissions-Policy = "autoplay=(), camera=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), publickey-credentials-get=()"
-  script-src = "'self' https://paulapplegate.com/pagefind/pagefind-ui.js"
-  script-src = "'self' https://cdnjs.cloudflare.com/ajax/libs/cloudinary-core/2.12.2/cloudinary-core-shrinkwrap.min.js"  
+  script-src = "https://paulapplegate.com/pagefind/pagefind-ui.js"
+  script-src = "https://cdnjs.cloudflare.com/ajax/libs/cloudinary-core/2.12.2/cloudinary-core-shrinkwrap.min.js"  
 
 [build]
   command = "npm run build && npx -y pagefind --site dist"
