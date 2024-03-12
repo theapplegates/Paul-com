@@ -30,6 +30,7 @@
     "@jackdbd/eleventy-plugin-content-security-policy": "^2.1.2",
     "@unpic/webc": "^0.0.41",
     "cloudinary": "^2.0.3",
+    "debug": "^4.3.4",
     "tailwindcss": "^3.0.23",
     "vite": "^5.0.12"
   },
