@@ -81,33 +81,3 @@ Thanks to the [markdown-it-eleventy-img](https://github.com/solution-loisir/mark
 
 ![Close-up with unfocused background of a vibrant large blue butterfly gracefully perched on a delicate flower amidst lush green gras](/assets/images/gallery/asturias-4.jpg)
 
-![A plane landing at dusk](/assets/images/gallery/plane-landing.jpg)
-<p class="credit">Photo by <a href="https://unsplash.com/@zhpix?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Pascal Meier</a> on <a href="https://unsplash.com/photos/white-biplane-UYiesSO4FiM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></p>
-
-
-![A beautiful day in Italy](/assets/images/gallery/vieste_italy.jpg)
-<p class="credit">Photo by <a href="https://unsplash.com/@zhpix?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Pascal Meier</a> on <a href="https://unsplash.com/photos/white-biplane-UYiesSO4FiM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></p>
-
-
-<img data-src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_fill,w_auto,g_auto,q_auto,dpr_auto/f_auto/v1709769083/paulapplegate-com/cherry-Blossom-a.jpg" alt="" class="cld-responsive">
-<p class="credit">Photo by <a href="https://unsplash.com/@zhpix?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Pascal Meier</a> on <a href="https://unsplash.com/photos/white-biplane-UYiesSO4FiM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></p>
-
-<img data-src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_fill,w_auto,g_auto,q_auto,dpr_auto/f_auto/v1709769083/paulapplegate-com/color-thing-waves-a.jpg" alt="" class="cld-responsive">
-
-<img src='https://res.cloudinary.com/paulapplegate-com/image/upload/ar_16:9,c_fill,g_auto,q_auto,f_auto/ISS-Lab?_a=BAMHUyd+0' />
-<p class="credit">Photo by <a href="https://unsplash.com/@zhpix?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Pascal Meier</a> on <a href="https://unsplash.com/photos/white-biplane-UYiesSO4FiM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></p>
-
-
-<img src='https://res.cloudinary.com/paulapplegate-com/image/upload/ar_16:9,c_fill,g_auto,q_auto/mini-pies?_a=BAMHUyd+0' />
-<p class="credit">Photo by <a href="https://unsplash.com/@zhpix?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Pascal Meier</a> on <a href="https://unsplash.com/photos/white-biplane-UYiesSO4FiM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></p>
-
-![Red Boats](/assets/images/gallery/red-boats.jpg)
-<p class="credit">Photo by <a href="https://unsplash.com/@zhpix?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Pascal Meier</a> on <a href="https://unsplash.com/photos/white-biplane-UYiesSO4FiM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></p>
-
-<unpic-img
-  webc:import="npm:@unpic/webc"
-  src="https://res.cloudinary.com/paulapplegate-com/image/upload/v1709828785/vieste_italy_fzd6ap.jpg"
-  layout="constrained"
-  width="800"
-  height="600"
-  alt="A beautiful Italian city by the sea"> </unpic-img>
