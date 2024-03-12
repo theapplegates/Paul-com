@@ -21,7 +21,7 @@ If you're curious about what 1979 TV looked like, you can watch the game show [o
 
 {% eleventyImage "./src/assets/images/gallery/Me-Mom.jpeg", "Me and my Mom", null, "eager" %}
 
-{% eleventyImage "./src/assets/images/gallery/contract.jpg", "Show Title", null, "eager" %}
+<img data-src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_auto/dpr_auto/f_auto,q_auto/https://res.cloudinary.com/paulapplegate-com/image/upload/v1710203561/contract_vfe0tn.jpg" class="cld-responsive">
 
 My words. Clearly I'm not a writer.
 Ten years old and on a game show. That trivia statement makes me smile whenever I think about it. It all started when my mother was auditioning for the $20,000 Pyramid. She made it through three interviews and demo games. Just when she was about to be picked for the show she was pulled aside my the higher ups and asked if she wanted to be on a new show called the [Junior Partner Pyramid](https://en.wikipedia.org/wiki/Pyramid_(game_show)). It would be played by an adult partnered with their child instead of being paired with a famous actor. My mom said yes and that started my training haha.
