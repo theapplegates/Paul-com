@@ -5,7 +5,7 @@ package = "netlify-plugin-cache"
   [[headers]]
   for = "/*"
   [headers.values]
-  Content-Security-Policy = "upgrade-insecure-requests; script-src = "https://paulapplegate.com/pagefind/pagefind-ui.js;" "https://cdnjs.cloudflare.com/ajax/libs/cloudinary-core/2.12.2/cloudinary-core-shrinkwrap.min.js"; block-all-mixed-content;"
+  Content-Security-Policy = "upgrade-insecure-requests; script-src = "https://paulapplegate.com/pagefind/pagefind-ui.js;" "https://cdnjs.cloudflare.com/ajax/libs/cloudinary-core/2.12.2/cloudinary-core-shrinkwrap.min.js;" block-all-mixed-content;"
   X-Content-Type-Options = "nosniff"
   X-Frame-Options = "DENY"
   X-XSS-Protection = "1; mode=block"
