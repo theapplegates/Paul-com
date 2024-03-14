@@ -18,5 +18,3 @@ If you want to keep the defaults, but get rid of the example content, delete the
 If you don't want to feature any code examples, you may delete the whole stylesheet for syntax highlighting: `src/assets/css/blocks/code.css`.
 
 In general, any CSS block in there is optional.
-
-<img data-src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_auto/dpr_auto/f_auto,q_auto/vieste_italy_ignoyr.jpg" class="cld-responsive">
