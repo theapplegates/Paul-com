@@ -81,5 +81,5 @@ Thanks to the [markdown-it-eleventy-img](https://github.com/solution-loisir/mark
 
 ![Close-up with unfocused background of a vibrant large blue butterfly gracefully perched on a delicate flower amidst lush green gras](/assets/images/gallery/asturias-4.jpg)
 
-<img data-src="https://res.cloudinary.com/paulapplegate-com/image/upload/f_auto,q_auto,c_fill/c_scale,w_auto:breakpoints_200_1920_30_15/plane-landing_o1twzy.jpg" alt="" class="cld-responsive">
+<img data-src="https://res.cloudinary.com/paulapplegate-com/image/upload/v1709828779/plane-landing_o1twzy.jpg" alt="" class="cld-responsive">
 <p class="photo-credit">Photo by <a href="https://unsplash.com/@zhpix?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Pascal Meier</a> on <a href="https://unsplash.com/photos/white-biplane-UYiesSO4FiM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></p>
