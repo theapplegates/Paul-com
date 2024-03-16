@@ -30,3 +30,6 @@ The day of the taping I was a nervous wreak. [Dick Clark](https://en.wikipedia.o
 <img data-src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_auto/dpr_auto/f_auto,q_auto/vieste_italy_ignoyr.jpg" class="cld-responsive">
 
 {% eleventyImage "./src/assets/images/gallery/contract.jpg", "consolation prize list", null, "eager" %}
+
+
+<img src="https://res.cloudinary.com/paulapplegate-com/image/upload/f_auto,q_auto,c_fill/c_scale,w_auto:breakpoints_200_1920_30_15/vauwn2sqd4pojobtybdz.jpg" alt="" >
