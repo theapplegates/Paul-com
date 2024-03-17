@@ -85,4 +85,4 @@ Thanks to the [markdown-it-eleventy-img](https://github.com/solution-loisir/mark
 <p class="photo-credit">Photo by <a href="https://unsplash.com/@zhpix?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Pascal Meier</a> on <a href="https://unsplash.com/photos/white-biplane-UYiesSO4FiM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></p>
 
 
-<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='cld-responsive' data-src='https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,w_auto/mercedes.jpg?_a=BAMHUyLRA'/>
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='cld-responsive' data-src='https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,dpr_auto,w_auto/camel.jpg?_a=BAMHUyLRA'/>
