@@ -89,8 +89,3 @@ Thanks to the [markdown-it-eleventy-img](https://github.com/solution-loisir/mark
 	Photo by <a href="https://unsplash.com/@zhpix?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">mos design</a> on
 	<a href="https://unsplash.com/photos/a-narrow-hallway-with-a-neon-sign-on-the-wall-3hDKIRiEvG8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 </p>
-
-Another test. You can't ever test enough.
-
-<img 
-	data-src="https://res.cloudinary.com/paulapplegate-com/image/upload/v1710719185/jellyfish-2_ykxewr.jpg" class="cld-responsive">
